@@ -461,7 +461,7 @@ EDGE_HOSTS = [
     for h in os.environ.get(
         "EDGE_HOSTS",
         "www.visa.com.sg:443,ip.sb:443,totoro.im:443,www.revechat.com:443,dogechain.info:443,ooo.0o0.ooo:443,infinitemac.org:443,47bt.com:443,www.whoer.net:443,codexradar.com:443,www.applevis.com:443,aandd.co.jp:443,ncdc.gov.ng:443,resources.biginterview.com:443，db-ip.com:443
-,www.trumpinternationalrealty.com:443，www.ventusky.com:443,www2.rarbggo.to:443,ippure.com:443,9mod.com:44,rarbg.proxyninja.org:443,"
+,www.trumpinternationalrealty.com:443，www.ventusky.com:443,www2.rarbggo.to:443,ippure.com:443,9mod.com:44,rarbg.proxyninja.org:443",
         "cdn.cnno.de:443,saas.sin.fan:443,cf.777791.xyz:443",
     ).split(",")
     if h.strip()
